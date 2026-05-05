@@ -106,4 +106,4 @@ This will sequentially train and evaluate all three models.
 
 ## 👤 Author
 
-**Sanaa Zeroual** — [@sanaa-zeroual](https://github.com/sanaa-zeroual)
+**Sanaa Zeroual** — [@sanaa-zeroual](https://github.com/sanaa-zeroual).
